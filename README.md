@@ -18,7 +18,7 @@ You should already have made an account on [GitHub](https://github.com/) and dow
 
 Go ahead and fork this repo, using the "Fork" button at in the top-right corner. 
 
-Check out your fork! At the moment, it's just a copy of the [original repository](https://github.com/PIC16B/git-practice). 
+Check out your fork! At the moment, it's just a copy of the [original repository](https://github.com/ErinGeorge/git-practice). 
 
 ## 2. Clone
 
